@@ -6,7 +6,9 @@
   
 </table>
 
-**Hope You will get to learn a new concept while doing this project.Thanks!** <br/>
+Hope You will get to learn a new concept while doing this project.Thanks!
+<br/>
+
 **As usual for any suggestion or update see you in pull request section!😁😂.Thanks Again!** 
 
 
